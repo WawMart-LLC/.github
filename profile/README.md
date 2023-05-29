@@ -1,3 +1,7 @@
+[![Proof HTML](https://github.com/WawMart-LLC/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/WawMart-LLC/demo-repository/actions/workflows/proof-html.yml)
+
+
+
 Main menu
 
 WikipediaThe Free Encyclopedia
